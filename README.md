@@ -1,4 +1,4 @@
-# bruhbuster-godot
+# BruhBuster
 
 BruhBuster Godot Project Files
 
